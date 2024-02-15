@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nitish Kumar Mahto</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+There;+I'm+Nitish+Kumar+Mahto;"/>
+</h1>
+
 <h3 align="center">An aspiring web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish08in&label=Profile%20views&color=0e75b6&style=flat" alt="nitish08in" /> </p>
@@ -26,7 +29,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
