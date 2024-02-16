@@ -4,9 +4,13 @@
 
 <h3 align="center">An aspiring Software Developer from India</h3>
 
+<div align="center">
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwOTg4NDUsIm5iZiI6MTcwODA5ODU0NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE2VDE1NDkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2OWQ0Njg1MWJkNDAwMWQ3YzI3ZWIyOWE5YWE1NGIyMmEzYzk4ZDlhZDZhZTk0M2IzOWMxZWJmYjcwMTU5NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LqHjQ7Qoz1WFCaba4h_t-4fbjqkH5wcLV6JUY8sHON8"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish08in&label=Profile%20views&color=0e75b6&style=flat" alt="nitish08in" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Project**
+- 🎓 I'm a 3rd-year student pursuing **B.Tech in ECE with minor in CSE from GTBIT under GGSIPU University**
 
 - 🌱 I’m currently learning **JavaScript and it's frameworks**
 
