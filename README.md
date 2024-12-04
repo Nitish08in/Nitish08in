@@ -10,17 +10,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish08in&label=Profile%20views&color=0e75b6&style=flat" alt="nitish08in" /> </p>
 
-- 🎓 I'm a 3rd-year student pursuing **B.Tech in ECE from GTBIT college under GGSIPU University**
+- 🎓 I'm a 4th-year student pursuing **B.Tech in ECE from GTBIT college under GGSIPU University**
 
 - 🌱 I have done **Diploma in ECE from Guru Tegh Bahadur Polytechnic Institute**
 
-- 💬 I'm working on projects like **IoT, Embedded System & Computer Networking**
+- 💬 I'm working on projects like **IoT, ESP, Embedded System & Computer Networking**
 
 - 👯 I’m looking for an **Internship in ECE domain** 
 
-- 🤝 I have done **1 month Internship @Engineers India Limited as Internship Trainee**
+- 🤝 I have done **Internship @Engineers India Limited as Internship Trainee**
 
-- 💬 Ask me about **IoT, PCB, Arduino, Embedded System, Electronics**
+- 🌱 I have done **3-months Hands-On Training on IOT @Samsung Innovation Campus**
+
+- 💬 Ask me about **IoT, PCB, Arduino, ESP, Embedded System, Electronics**
 
 - 📫 How to reach me **nitish08in@gmail.com**
 
