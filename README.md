@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+There;+I'm+Nitish+Kumar+Mahto;Aspiring+Network+Engineer;Computer+Networking+Enthusiast"/>
+<h1 align="center">Hello👋🏻 I'm Nitish Kumar Mahto
 </h1>
 
 <h3 align="center">An aspiring Network Engineer from India 🌐</h3>
@@ -57,7 +56,7 @@
 
 - 📫 Reach me at: **nitish08in@gmail.com**
 
-- ⚡ Fun fact: **I'm also a Video Editor 🎬**
+- ⚡ Fun fact: **I'm also a Video Editor 🎬 of my Sister's Youtube Channel**
 
 ---
 
@@ -113,16 +112,4 @@
 <a href="https://discord.gg/nitish08in" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nitish08in" height="30" width="40" />
 </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish08in&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish08in&theme=tokyonight" alt="streak" />
 </p>
